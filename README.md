@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/status-em%20andamento-yellow?style=for-the-badge&logo=github" alt="Status">
+    <img src="https://img.shields.io/badge/status-completed-brightgreen?style=for-the-badge&logo=github" alt="Status">
   </a>
 
   <a href="#">
@@ -64,5 +64,4 @@ npx prisma db seed
 
 # Visualizar e Validar os Dados (Prisma Studio)
 # Abre a interface visual em http://localhost:5555.
-
 npx prisma studio
